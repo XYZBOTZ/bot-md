@@ -74,8 +74,8 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync('./src/logo.jpg') //Gambarnye
 					},
-					"title": wm, //Kasih namalu 
-					"description": namabot, 
+					"title": wm, //Nopan 
+					"description": 𝚇𝚈𝚉-𝙼𝙳, 
 					"currencyCode": "USD",
 					"priceAmount1000": "20000000",
 					"retailerId": "Ghost",
@@ -108,7 +108,7 @@ key: {
 		"groupInviteMessage": {
 			"groupJid": "6282331033919-1625305606@g.us",
 			"inviteCode": "null",
-			"groupName": "☬𝚁𝚊𝚡𝚌𝚎𝚕 ༼༽𝚡 𝚎𝚟𝚒𝚕 𝐎𝔣ᶜ ◉", 
+			"groupName": "☬𝕹𝖔𝖕𝖆𝖓 𝖝𝖞𝖟◉", 
             "caption": `╭─${kki}RULES BOT${kka}
 │
 ├❒ DILARANG TOXIC
